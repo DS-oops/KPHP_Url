@@ -1,0 +1,12 @@
+{
+    "name": "kaefcatcher/kphp_url",
+    "description": "This library is PUrl library ported to KPHP programming language. This library has functions to analyze and build urls or it separate parts.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Даниил Шембель",
+            "email": "dashembel@miem.hse.ru"
+        }
+    ],
+    "require": {}
+}
